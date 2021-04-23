@@ -33,3 +33,7 @@ O Podcastr é uma aplicação para lhe aproximar você mais ainda do que há de 
 # 🏷️ Layout
 
 Você pode visualizar o layout do projeto [aqui](https://www.figma.com/file/MgFV7cEARBinibDQAZ7j4E/Podcastr?node-id=2%3A3)
+
+<hr>
+
+<p align="center">Feito com 💜 by Jonatha Gomes</p>
