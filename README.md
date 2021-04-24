@@ -29,6 +29,7 @@ $ yarn dev
 # 💻️ Projeto
 
 O Podcastr é uma aplicação para lhe aproximar você mais ainda do que há de melhor em podcasts de tecnologia! 💜️
+Esse projeto foi desenvolvido durante a NextLevelWeek#5 da [Rocketseat](https://github.com/Rocketseat)!💜️
 
 # 🏷️ Layout
 
