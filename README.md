@@ -22,6 +22,9 @@ Após isso siga os passos abaixo
 # Instalando as depedências do projeto
 $ yarn
 
+# Iniciando o servidor JSON
+$ yarn server
+
 # Iniciando o projeto
 $ yarn dev
 ```
