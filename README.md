@@ -19,7 +19,7 @@ $ git clone https://github.com/JonathaGomes/podcastr.git && cd podcastr
 Após isso siga os passos abaixo
 
 ```bash
-# Instalando as depedências do projeto
+# Instalando as dependências do projeto
 $ yarn
 
 # Iniciando o servidor JSON
